@@ -1,0 +1,21 @@
+{
+  "originUrl": "https://www.aircanada.com/",
+  "lastCrawled": "https://www.aircanada.com/ca/en/aco/home/aeroplan/credit-cards/td/personal.html#/",
+  "urls": [
+    {
+      "url": "https://www.aircanada.com/ca/en/aco/home/aeroplan/credit-cards/td/personal.html#/",
+      "source": "SITEMAPS"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "SITEMAPS",
+    "logger": {}
+  },
+  "extractionErrors": []
+}
